@@ -8,7 +8,7 @@ An NLP-powered app that detects fraudulent UPI SMS messages in **5 languages** â
 
 ## Live Demo
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://upi-scam-sms-detector-ghgwrj6c5xdjatsqqmqsze.streamlit.app/)
 
 ---
 
